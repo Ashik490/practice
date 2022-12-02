@@ -1,0 +1,21 @@
+.manu{
+    display: flex;
+
+}
+h1:hover{
+    color: red;
+    background-color: goldenrod;
+    font-size: 40px;
+
+}
+form{
+    text-align:center;
+    font-size: 25px;
+    border: 2px solid red;
+    border-radius: 50%;
+    background-color: chartreuse;
+
+}
+body {
+    background-image: url("pic.jpg");
+  }
